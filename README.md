@@ -24,3 +24,4 @@ Unity3d Project Manager / unity3d工程管理器
 --> 使用鼠标点击选中这个工程的文件夹,并按下F9,即可快速打开  
 --> 注意你需要确保你只在一个资源管理器文件夹视图中选择了一个文件夹,如果你选择了多个文件夹,则可能打开失败,或打开别的unity工程  
 --> 当前从桌面上按F9启动还不支持,正在研究方案  
+![image](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/F9%E6%89%93%E5%BC%80%E5%B7%A5%E7%A8%8B.gif)
