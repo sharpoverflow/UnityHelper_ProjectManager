@@ -25,3 +25,9 @@ Unity3d Project Manager / unity3d工程管理器
 --> 注意你需要确保你只在一个资源管理器文件夹视图中选择了一个文件夹,如果你选择了多个文件夹,则可能打开失败,或打开别的unity工程  
 --> 当前从桌面上按F9启动还不支持,正在研究方案  
 ![image](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/F9%E6%89%93%E5%BC%80%E5%B7%A5%E7%A8%8B.gif)
+
+### 为工程添加辨识图片  
+右键双击主界面右侧的图片可以获取当前剪切板中的图像并替换"没有图片"这张,用于辨识当前untiy工程是做啥的  
+你也可以用这个功能对你从网上下载的unitypackage包(美术资源)进行标记  
+(有些项目太老,你甚至忘了他是干什么的,加个图片方便记忆) 
+(这个功能还没做)  
