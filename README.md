@@ -10,8 +10,8 @@ Unity3d Project Manager / unity3d工程管理器
 
 # 基础使用
 打开工具后,在任务栏右下角出现两个图标,右击绿色的unity标志,选择"设置"并填写选择相关数据  
-![](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/%E8%AE%BE%E7%BD%AE1.jpg)
-![](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/%E8%AE%BE%E7%BD%AE2.jpg)
+![image](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/%E8%AE%BE%E7%BD%AE1.jpg)
+![image](https://github.com/sharpoverflow/UnityHelper_ProjectManager/blob/main/GitImage/%E8%AE%BE%E7%BD%AE2.jpg)
 
 # 特殊使用
 
